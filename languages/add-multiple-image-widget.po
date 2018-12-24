@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: multiple-image-widget.php conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-12 15:39+0000\n"
+"PO-Revision-Date: 2018-12-12 15:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: Unknown\n"
+"Language: zxx\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: en_GB\n"
+"X-Loco-Parser: loco_parse_php\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the plugin
+msgid "Multiple Images Widget"
+msgstr ""
+
+#. URI of the plugin
+msgid "#"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add Multiple Images For Your Sidebar"
+msgstr ""
+
+#. Author of the plugin
+msgid "Utsav Tilava"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/utsav72640"
+msgstr ""
+
+#: stdin:37
+msgid "Displays an Multiple Images Widget."
+msgstr ""
+
+#: stdin:104
+msgid "Title:"
+msgstr ""
+
+#: stdin:120
+msgid "Image Link:"
+msgstr ""
+
+#: stdin:124
+msgid "Open Link in New Tab:"
+msgstr ""
+
+#: stdin:126
+msgid "Current Window"
+msgstr ""
+
+#: stdin:127
+msgid "New Window"
+msgstr ""
+
+#: stdin:131
+msgid "Upload Your Image:"
+msgstr ""
+
+#: stdin:134
+msgid "Remove This Section"
+msgstr ""
+
+#: stdin:139
+msgid "Add New Image"
+msgstr ""
